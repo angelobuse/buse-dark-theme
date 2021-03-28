@@ -1,0 +1,36 @@
+{
+    "name": "angelobuse-dark",
+    "displayName": "Angelo Buse Dark ",
+    "description": "This is the Buse dark theme !",
+    "version": "0.0.1",
+    "publisher": "AngeloThomas",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/angelobuse/buse-dark-theme.git"
+    },
+    "keywords": [
+        "theme",
+        "buse",
+        "buse dark theme",
+        "angelo thomas",
+        "angelo buse",
+        "angelo buse dark theme",
+        "angelobuse",
+        "dark theme"
+    ],
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Angelo Buse Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Angelo Buse Dark-color-theme.json"
+            }
+        ]
+    }
+}
