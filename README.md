@@ -1,9 +1,13 @@
-# README
-## This is the README for your extension "angelobuse-dark"
-It's a customized dark theme using my own preffered colors. Try it!
 
+## README for your extension "angelobuse-dark"
+This a customized dark theme using preffered colors. Try it!
+
+#### To install
 * Open vs-code
-* On the extension tab search "angelo buse dark theme"
+* Search for "buse dark theme" in marketplace in VS Code, and set the color theme.
 * Click install to start using it
 
-**Enjoy!**
+#### To contribute
+* Open issue or pull request
+
+**Enjoy !!**
